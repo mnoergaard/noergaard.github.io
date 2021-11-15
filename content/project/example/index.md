@@ -9,14 +9,13 @@ url_slides: ""
 title: Reliable Prediction of Brain Dynamics in Depression using Big
   Neuroimaging Datasets
 tags:
-  - Deep Learning
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - Depression
+  - Big Data
+  - Machine Learning
+  - Data Sharing
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
