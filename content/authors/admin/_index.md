@@ -41,6 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Martin Noergaard is a postdoctoral research fellow in the Poldrack lab at Stanford University, and is affiliated with the Center for Reproducible Neurosciene. Martin did his PhD with the title "optimizing preprocessing pipelines in PET/MR neuroimaging" at the University of Copenhagen, in collaboration with University of Toronto, and the Martinos Center (MGH/Harvard-MIT). Martin has a strong expertise in medical image analysis, and is heavily involved in data sharing initiatives, standardization/evaluation of workflows for PET brain imaging, and developing the BIDS standard for PET imaging.
+Martin Nørgaard is a postdoctoral research fellow in the Poldrack lab at Stanford University, and is affiliated with the Center for Reproducible Neurosciene. Martin did his PhD with the title "optimizing preprocessing pipelines in PET/MR neuroimaging" at the University of Copenhagen, in collaboration with University of Toronto, and the Martinos Center (MGH/Harvard-MIT). Martin has a strong expertise in medical image analysis, and is heavily involved in data sharing initiatives, standardization/evaluation of workflows for PET brain imaging, and developing the BIDS standard for PET imaging.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
