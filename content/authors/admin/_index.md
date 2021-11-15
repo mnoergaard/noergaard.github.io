@@ -41,9 +41,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Martin Noergaard is a postdoctoral research fellow in the Poldrack lab at Stanford University, and is affiliated with the Center for Reproducible Neurosciene. Martin did his PhD with the title "optimizing preprocessing pipelines in PET/MR neuroimaging" at the University of Copenhagen, in collaboration with University of Toronto, and the Martinos Center (MGH/Harvard-MIT). Martin has a strong expertise in medical image analysis, and is heavily involved in data sharing initiatives, standardization/evaluation of workflows for PET brain imaging, and developing the BIDS standard for PET imaging.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
