@@ -3,7 +3,7 @@ slides: example
 url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
-date: 2016-04-27T00:00:00.000Z
+date: 2021-11-15T14:47:05.554Z
 external_link: ""
 url_slides: ""
 title: Reliable Prediction of Brain Dynamics in Depression using Big
