@@ -1,7 +1,7 @@
 ---
 slides: example
 url_pdf: ""
-summary: An example of using the in-built project page.
+summary: ""
 url_video: ""
 date: 2021-11-15T14:47:05.554Z
 external_link: ""
